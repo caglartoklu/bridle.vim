@@ -23,7 +23,7 @@ Fruidle on the left, Bridle on the right:
 
 For [Vundle](https://github.com/gmarik/vundle) users:
 
-```
+```vimL
 Plugin 'caglartoklu/bridle.vim'
 ```
 
@@ -33,7 +33,7 @@ For all other users, simply drop the [bridle.vim](colors/bridle.vim) file to you
 
 # Usage
 
-```
+```vimL
 colorscheme bridle
 ```
 
