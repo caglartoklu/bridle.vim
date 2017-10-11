@@ -1,0 +1,12 @@
+*~
+*.swp
+tags
+
+.draft
+.draft/*
+_draft
+_draft/*
+.private
+.private/*
+_private
+_private/*
