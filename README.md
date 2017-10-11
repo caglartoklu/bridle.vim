@@ -11,7 +11,7 @@ colorscheme with some touches for a little bit more resemblance with IDLE for Py
 
 - Status line in Bridle is light gray instead of black background.
 - Vertical split borders in Bridle is light gray instead of black background.
-- [Shebangs](https://www.wikiwand.com/en/Shebang_(Unix)) in Bridle are green as in IDLE.
+- [Shebangs](https://www.wikiwand.com/en/Shebang_(Unix)) in Bridle are red as in IDLE.
 - Function names in Bridle are blue as in IDLE.
 
 Fruidle on the left, Bridle on the right:
