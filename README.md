@@ -14,6 +14,10 @@ colorscheme with some touches for a little bit more resemblance with IDLE for Py
 - [Shebangs](https://www.wikiwand.com/en/Shebang_(Unix)) in Bridle are green as in IDLE.
 - Function names in Bridle are blue as in IDLE.
 
+Fruidle on the left, Bridle on the right:
+
+![fruidle_next_to_bridle](https://user-images.githubusercontent.com/2071639/31425156-b7b1eb98-ae66-11e7-931e-44bf1d74abdd.png)
+
 
 # Installation
 
